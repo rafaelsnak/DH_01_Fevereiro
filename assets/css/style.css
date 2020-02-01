@@ -1,0 +1,28 @@
+/* RESET */
+body {
+    background-color: rgb(228, 228, 228); /* Cor primária do cliente */ 
+  }
+  
+  #listaMenu {
+      background-color: rgb(255,0,255);
+  }
+  
+  .fundo-cinza {
+      background-color: rgb(150, 150, 150);
+  }
+
+  .fundo-laranja {
+    background-color: rgb(233, 65, 14);
+}
+
+  header {
+      color: brown
+  }
+
+  footer {
+      color: black
+  }
+
+  article:first-child p {
+      border: 0.5px solid black
+        }
